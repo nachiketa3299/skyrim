@@ -1,0 +1,1438 @@
+[
+    {
+        "name": "Wisp Wrappings",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify Destruction",
+            "tertiary": "Fortify Carry Weight",
+            "quarternary": "Resist Magic"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Wispmother",
+        "minimal": null
+    },
+    {
+        "name": "Glow Dust",
+        "effects": {
+            "primary": "Damage Magicka",
+            "secondary": "Damage Magicka Regen",
+            "tertiary": "Fortify Destruction",
+            "quarternary": "Resist Shock"
+        },
+        "weight": "0.5",
+        "value": "20",
+        "obtained": "Wispmother",
+        "minimal": null
+    },
+    {
+        "name": "Deathbell",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Ravage Stamina",
+            "tertiary": "Slow",
+            "quarternary": "Weakness to Poison"
+        },
+        "weight": "0.1",
+        "value": "4",
+        "obtained": "Wild, on planters",
+        "minimal": null
+    },
+    {
+        "name": "Hanging Moss",
+        "effects": {
+            "primary": "Damage Magicka",
+            "secondary": "Fortify Health",
+            "tertiary": "Damage Magicka Regen",
+            "quarternary": "Fortify One-Handed"
+        },
+        "weight": "0.3",
+        "value": "1",
+        "obtained": "Vegetated areas, hanging in caves, from buildings",
+        "minimal": null
+    },
+    {
+        "name": "Vampire Dust",
+        "effects": {
+            "primary": "Invisibility",
+            "secondary": "Restore Magicka",
+            "tertiary": "Regenerate Health",
+            "quarternary": "Cure Disease"
+        },
+        "weight": "0.2",
+        "value": "25",
+        "obtained": "Vampires, the Silver Hand",
+        "minimal": null
+    },
+    {
+        "name": "Slaughterfish Egg",
+        "effects": {
+            "primary": "Resist Poison",
+            "secondary": "Fortify Pickpocket",
+            "tertiary": "Lingering Damage Health",
+            "quarternary": "Fortify Stamina"
+        },
+        "weight": "0.2",
+        "value": "3",
+        "obtained": "Underwater",
+        "minimal": null
+    },
+    {
+        "name": "Nordic Barnacle",
+        "effects": {
+            "primary": "Damage Magicka",
+            "secondary": "Waterbreathing",
+            "tertiary": "Regenerate Health",
+            "quarternary": "Fortify Pickpocket"
+        },
+        "weight": "0.2",
+        "value": "5",
+        "obtained": "Underwater",
+        "minimal": null
+    },
+    {
+        "name": "Boar Tusk",
+        "effects": {
+            "primary": "Fortify Stamina",
+            "secondary": "Fortify Health",
+            "tertiary": "Fortify Block",
+            "quarternary": "Frenzy"
+        },
+        "weight": "0.5",
+        "value": "20",
+        "obtained": "Tusked Bristlebacks",
+        "minimal": "dragonborn"
+    },
+    {
+        "name": "Grass Pod",
+        "effects": {
+            "primary": "Resist Poison",
+            "secondary": "Ravage Magicka",
+            "tertiary": "Fortify Alteration",
+            "quarternary": "Restore Magicka"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "Tundras",
+        "minimal": null
+    },
+    {
+        "name": "Troll Fat",
+        "effects": {
+            "primary": "Resist Poison",
+            "secondary": "Fortify Two-Handed",
+            "tertiary": "Frenzy",
+            "quarternary": "Damage Health"
+        },
+        "weight": "1",
+        "value": "15",
+        "obtained": "Trolls",
+        "minimal": null
+    },
+    {
+        "name": "Torchbug Thorax",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Lingering Damage Magicka",
+            "tertiary": "Weakness to Magic",
+            "quarternary": "Fortify Stamina"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "Torchbugs, glowing at night",
+        "minimal": null
+    },
+    {
+        "name": "Thistle Branch",
+        "effects": {
+            "primary": "Resist Frost",
+            "secondary": "Ravage Stamina",
+            "tertiary": "Resist Poison",
+            "quarternary": "Fortify Heavy Armor"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "Thistle Plant",
+        "minimal": null
+    },
+    {
+        "name": "Giant Lichen",
+        "effects": {
+            "primary": "Weakness to Shock",
+            "secondary": "Ravage Health",
+            "tertiary": "Weakness to Poison",
+            "quarternary": "Restore Magicka"
+        },
+        "weight": "0.3",
+        "value": "5",
+        "obtained": "Swamps",
+        "minimal": null
+    },
+    {
+        "name": "Swamp Fungal Pod",
+        "effects": {
+            "primary": "Resist Shock",
+            "secondary": "Lingering Damage Magicka",
+            "tertiary": "Paralysis",
+            "quarternary": "Restore Health"
+        },
+        "weight": "0.3",
+        "value": "5",
+        "obtained": "Swamps",
+        "minimal": null
+    },
+    {
+        "name": "Void Salts",
+        "effects": {
+            "primary": "Weakness to Shock",
+            "secondary": "Resist Magic",
+            "tertiary": "Damage Health",
+            "quarternary": "Fortify Magicka"
+        },
+        "weight": "0.2",
+        "value": "125",
+        "obtained": "Storm Atronach",
+        "minimal": null
+    },
+    {
+        "name": "Taproot",
+        "effects": {
+            "primary": "Weakness to Magic",
+            "secondary": "Fortify Illusion",
+            "tertiary": "Regenerate Magicka",
+            "quarternary": "Restore Magicka"
+        },
+        "weight": "0.5",
+        "value": "15",
+        "obtained": "Spriggan",
+        "minimal": null
+    },
+    {
+        "name": "Spriggan Sap",
+        "effects": {
+            "primary": "Damage Magicka Regen",
+            "secondary": "Fortify Enchanting",
+            "tertiary": "Fortify Smithing",
+            "quarternary": "Fortify Alteration"
+        },
+        "weight": "0.2",
+        "value": "15",
+        "obtained": "Spriggan",
+        "minimal": null
+    },
+    {
+        "name": "Spider Egg",
+        "effects": {
+            "primary": "Damage Stamina",
+            "secondary": "Damage Magicka Regen",
+            "tertiary": "Fortify Lockpicking",
+            "quarternary": "Fortify Marksman"
+        },
+        "weight": "0.2",
+        "value": "5",
+        "obtained": "Spider lairs",
+        "minimal": null
+    },
+    {
+        "name": "Snowberries",
+        "effects": {
+            "primary": "Resist Fire",
+            "secondary": "Fortify Enchanting",
+            "tertiary": "Resist Frost",
+            "quarternary": "Resist Shock"
+        },
+        "weight": "0.1",
+        "value": "4",
+        "obtained": "Snowberry bush, snowy areas",
+        "minimal": null
+    },
+    {
+        "name": "Slaughterfish Scales",
+        "effects": {
+            "primary": "Resist Frost",
+            "secondary": "Lingering Damage Health",
+            "tertiary": "Fortify Heavy Armor",
+            "quarternary": "Fortify Block"
+        },
+        "weight": "0.1",
+        "value": "3",
+        "obtained": "Slaughterfish",
+        "minimal": null
+    },
+    {
+        "name": "Skeever Tail",
+        "effects": {
+            "primary": "Damage Stamina Regen",
+            "secondary": "Ravage Health",
+            "tertiary": "Damage Health",
+            "quarternary": "Fortify Light Armor"
+        },
+        "weight": "0.2",
+        "value": "3",
+        "obtained": "Skeever",
+        "minimal": null
+    },
+    {
+        "name": "Pearl",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify Block",
+            "tertiary": "Restore Magicka",
+            "quarternary": "Resist Shock"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Satchels; Alchemy Laboratory of a Homestead\u2020 Pearl Oyster\u2021",
+        "minimal": null
+    },
+    {
+        "name": "Salmon Roe",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Waterbreathing",
+            "tertiary": "Fortify Magicka",
+            "quarternary": "Regenerate Magicka"
+        },
+        "weight": "0.2",
+        "value": "5",
+        "obtained": "Salmon jumping up falls, Kitchen of a Homestead\u2020",
+        "minimal": "hearthfire"
+    },
+    {
+        "name": "Sabre Cat Tooth",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify Heavy Armor",
+            "tertiary": "Fortify Smithing",
+            "quarternary": "Weakness to Poison"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Sabre Cat, Snowy Sabre Cat",
+        "minimal": null
+    },
+    {
+        "name": "Eye of Sabre Cat",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Ravage Health",
+            "tertiary": "Damage Magicka",
+            "quarternary": "Restore Health"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Sabre Cat, Snowy Sabre Cat",
+        "minimal": null
+    },
+    {
+        "name": "Rock Warbler Egg",
+        "effects": {
+            "primary": "Restore Health",
+            "secondary": "Fortify One-Handed",
+            "tertiary": "Damage Stamina",
+            "quarternary": "Weakness to Magic"
+        },
+        "weight": "0.5",
+        "value": "2",
+        "obtained": "Rock Warbler Nest",
+        "minimal": null
+    },
+    {
+        "name": "Berit's Ashes",
+        "effects": {
+            "primary": "(identical to Bone Meal)"
+        },
+        "weight": null
+    },
+    {
+        "name": "Damage Stamina",
+        "effects": {
+            "primary": "Resist Fire",
+            "secondary": "Fortify Conjuration",
+            "tertiary": "Ravage Stamina",
+            "quarternary": "0.5"
+        },
+        "weight": "5",
+        "value": "Quest item given by Thadgeir; also found in Valerica's Study in Castle Volkihar.",
+        "obtained": null
+    },
+    {
+        "name": "Elves Ear",
+        "effects": {
+            "primary": "Restore Magicka",
+            "secondary": "Fortify Marksman",
+            "tertiary": "Weakness to Frost",
+            "quarternary": "Resist Fire"
+        },
+        "weight": "0.1",
+        "value": "10",
+        "obtained": "Plant, hanging herbs",
+        "minimal": null
+    },
+    {
+        "name": "Small Pearl",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify One-Handed",
+            "tertiary": "Fortify Restoration",
+            "quarternary": "Resist Frost"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Pearl Oyster\u2021",
+        "minimal": null
+    },
+    {
+        "name": "Lavender",
+        "effects": {
+            "primary": "Resist Magic",
+            "secondary": "Fortify Stamina",
+            "tertiary": "Ravage Magicka",
+            "quarternary": "Fortify Conjuration"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "Outdoors in clumps",
+        "minimal": null
+    },
+    {
+        "name": "Netch Jelly",
+        "effects": {
+            "primary": "Paralysis",
+            "secondary": "Fortify Carry Weight",
+            "tertiary": "Restore Stamina",
+            "quarternary": "Fear"
+        },
+        "weight": "0.5",
+        "value": "20",
+        "obtained": "Netch",
+        "minimal": "dragonborn"
+    },
+    {
+        "name": "Pine Thrush Egg",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify Lockpicking",
+            "tertiary": "Weakness to Poison",
+            "quarternary": "Resist Shock"
+        },
+        "weight": "0.5",
+        "value": "2",
+        "obtained": "Nests in forests",
+        "minimal": null
+    },
+    {
+        "name": "Nirnroot",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Damage Stamina",
+            "tertiary": "Invisibility",
+            "quarternary": "Resist Magic"
+        },
+        "weight": "0.2",
+        "value": "10",
+        "obtained": "Near water",
+        "minimal": null
+    },
+    {
+        "name": "Canis Root",
+        "effects": {
+            "primary": "Damage Stamina",
+            "secondary": "Fortify One-Handed",
+            "tertiary": "Fortify Marksman",
+            "quarternary": "Paralysis"
+        },
+        "weight": "0.1",
+        "value": "5",
+        "obtained": "Near rocky areas",
+        "minimal": null
+    },
+    {
+        "name": "White Cap",
+        "effects": {
+            "primary": "Weakness to Frost",
+            "secondary": "Fortify Heavy Armor",
+            "tertiary": "Restore Magicka",
+            "quarternary": "Ravage Magicka"
+        },
+        "weight": "0.3",
+        "value": "0",
+        "obtained": "Mushroom clusters near caves or dungeons",
+        "minimal": null
+    },
+    {
+        "name": "Imp Stool",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Lingering Damage Health",
+            "tertiary": "Paralysis",
+            "quarternary": "Restore Health"
+        },
+        "weight": "0.3",
+        "value": "0",
+        "obtained": "Mushroom clusters near caves or dungeons",
+        "minimal": null
+    },
+    {
+        "name": "Fly Amanita",
+        "effects": {
+            "primary": "Resist Fire",
+            "secondary": "Fortify Two-Handed",
+            "tertiary": "Frenzy",
+            "quarternary": "Regenerate Stamina"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Mushroom clusters in and around caves",
+        "minimal": null
+    },
+    {
+        "name": "Bleeding Crown",
+        "effects": {
+            "primary": "Weakness to Fire",
+            "secondary": "Fortify Block",
+            "tertiary": "Weakness to Poison",
+            "quarternary": "Resist Magic"
+        },
+        "weight": "0.3",
+        "value": "10",
+        "obtained": "Mushroom clusters",
+        "minimal": null
+    },
+    {
+        "name": "Mudcrab Chitin",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Cure Disease",
+            "tertiary": "Resist Poison",
+            "quarternary": "Resist Fire"
+        },
+        "weight": "0.3",
+        "value": "2",
+        "obtained": "Mudcrabs",
+        "minimal": null
+    },
+    {
+        "name": "Purple Mountain Flower",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify Sneak",
+            "tertiary": "Lingering Damage Magicka",
+            "quarternary": "Resist Frost"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Mountain flower clumps",
+        "minimal": null
+    },
+    {
+        "name": "Red Mountain Flower",
+        "effects": {
+            "primary": "Restore Magicka",
+            "secondary": "Ravage Magicka",
+            "tertiary": "Fortify Magicka",
+            "quarternary": "Damage Health"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Mountain flower clumps",
+        "minimal": null
+    },
+    {
+        "name": "Blue Mountain Flower",
+        "effects": {
+            "primary": "Restore Health",
+            "secondary": "Fortify Conjuration",
+            "tertiary": "Fortify Health",
+            "quarternary": "Damage Magicka Regen"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Mountain flower clumps",
+        "minimal": null
+    },
+    {
+        "name": "Butterfly Wing",
+        "effects": {
+            "primary": "Restore Health",
+            "secondary": "Fortify Barter",
+            "tertiary": "Lingering Damage Stamina",
+            "quarternary": "Damage Magicka"
+        },
+        "weight": "0.1",
+        "value": "3",
+        "obtained": "Monarch Butterfly",
+        "minimal": null
+    },
+    {
+        "name": "Salt Pile",
+        "effects": {
+            "primary": "Weakness to Magic",
+            "secondary": "Fortify Restoration",
+            "tertiary": "Slow",
+            "quarternary": "Regenerate Magicka"
+        },
+        "weight": "0.2",
+        "value": "2",
+        "obtained": "Merchants, containers, near cooking places",
+        "minimal": null
+    },
+    {
+        "name": "Luna Moth Wing",
+        "effects": {
+            "primary": "Damage Magicka",
+            "secondary": "Fortify Light Armor",
+            "tertiary": "Regenerate Health",
+            "quarternary": "Invisibility"
+        },
+        "weight": "0.1",
+        "value": "5",
+        "obtained": "Luna Moth",
+        "minimal": null
+    },
+    {
+        "name": "Abecean Longfin",
+        "effects": {
+            "primary": "Weakness to Frost",
+            "secondary": "Fortify Sneak",
+            "tertiary": "Weakness to Poison",
+            "quarternary": "Fortify Restoration"
+        },
+        "weight": "0.5",
+        "value": "15",
+        "obtained": "Lakes, rivers, streams, fish barrels",
+        "minimal": null
+    },
+    {
+        "name": "Cyrodilic Spadetail",
+        "effects": {
+            "primary": "Damage Stamina",
+            "secondary": "Fortify Restoration",
+            "tertiary": "Fear",
+            "quarternary": "Ravage Health"
+        },
+        "weight": "0.3",
+        "value": "15",
+        "obtained": "Lakes, rivers, streams, fish barrels",
+        "minimal": null
+    },
+    {
+        "name": "Silverside Perch",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Damage Stamina Regen",
+            "tertiary": "Ravage Health",
+            "quarternary": "Resist Frost"
+        },
+        "weight": "0.3",
+        "value": "15",
+        "obtained": "Lakes, rivers, streams and fish barrels",
+        "minimal": null
+    },
+    {
+        "name": "Histcarp",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify Magicka",
+            "tertiary": "Damage Stamina Regen",
+            "quarternary": "Waterbreathing"
+        },
+        "weight": "0.3",
+        "value": "6",
+        "obtained": "Lakes, rivers, streams and fish barrels",
+        "minimal": null
+    },
+    {
+        "name": "River Betty",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Fortify Alteration",
+            "tertiary": "Slow",
+            "quarternary": "Fortify Carry Weight"
+        },
+        "weight": "0.3",
+        "value": "15",
+        "obtained": "Lakes, rivers, streams and fish barrels",
+        "minimal": null
+    },
+    {
+        "name": "Moon Sugar",
+        "effects": {
+            "primary": "Weakness to Fire",
+            "secondary": "Resist Frost",
+            "tertiary": "Restore Magicka",
+            "quarternary": "Regenerate Magicka"
+        },
+        "weight": "0.3",
+        "value": "50",
+        "obtained": "Khajiit Caravans",
+        "minimal": null
+    },
+    {
+        "name": "Juniper Berries",
+        "effects": {
+            "primary": "Weakness to Fire",
+            "secondary": "Fortify Marksman",
+            "tertiary": "Regenerate Health",
+            "quarternary": "Damage Stamina Regen"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "Juniper Trees",
+        "minimal": null
+    },
+    {
+        "name": "Ice Wraith Teeth",
+        "effects": {
+            "primary": "Weakness to Frost",
+            "secondary": "Fortify Heavy Armor",
+            "tertiary": "Invisibility",
+            "quarternary": "Weakness to Fire"
+        },
+        "weight": "0.3",
+        "value": "30",
+        "obtained": "Ice Wraith",
+        "minimal": null
+    },
+    {
+        "name": "Jazbay Grapes",
+        "effects": {
+            "primary": "Weakness to Magic",
+            "secondary": "Fortify Magicka",
+            "tertiary": "Regenerate Magicka",
+            "quarternary": "Ravage Health"
+        },
+        "weight": "0.2",
+        "value": "1",
+        "obtained": "Hydro-thermal regions",
+        "minimal": null
+    },
+    {
+        "name": "Dragon's Tongue",
+        "effects": {
+            "primary": "Resist Fire",
+            "secondary": "Fortify Barter",
+            "tertiary": "Fortify Illusion",
+            "quarternary": "Fortify Two-Handed"
+        },
+        "weight": "0.1",
+        "value": "5",
+        "obtained": "Hydro-thermal areas",
+        "minimal": null
+    },
+    {
+        "name": "Creep Cluster",
+        "effects": {
+            "primary": "Restore Magicka",
+            "secondary": "Damage Stamina Regen",
+            "tertiary": "Fortify Carry Weight",
+            "quarternary": "Weakness to Magic"
+        },
+        "weight": "0.2",
+        "value": "1",
+        "obtained": "Hydro-thermal areas",
+        "minimal": null
+    },
+    {
+        "name": "Blue Dartwing",
+        "effects": {
+            "primary": "Resist Shock",
+            "secondary": "Fortify Pickpocket",
+            "tertiary": "Restore Health",
+            "quarternary": "Fear"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "Hovering above water",
+        "minimal": null
+    },
+    {
+        "name": "Orange Dartwing",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Ravage Magicka",
+            "tertiary": "Fortify Pickpocket",
+            "quarternary": "Lingering Damage Health"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "Hovering above water",
+        "minimal": null
+    },
+    {
+        "name": "Tundra Cotton",
+        "effects": {
+            "primary": "Resist Magic",
+            "secondary": "Fortify Magicka",
+            "tertiary": "Fortify Block",
+            "quarternary": "Fortify Barter"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "High mountains below snow line, tundra",
+        "minimal": null
+    },
+    {
+        "name": "Hawk Feathers",
+        "effects": {
+            "primary": "Cure Disease",
+            "secondary": "Fortify Light Armor",
+            "tertiary": "Fortify One-Handed",
+            "quarternary": "Fortify Sneak"
+        },
+        "weight": "0.1",
+        "value": "15",
+        "obtained": "Hawks",
+        "minimal": null
+    },
+    {
+        "name": "Hawk Beak",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Resist Frost",
+            "tertiary": "Fortify Carry Weight",
+            "quarternary": "Resist Shock"
+        },
+        "weight": "0.3",
+        "value": "15",
+        "obtained": "Hawks",
+        "minimal": null
+    },
+    {
+        "name": "Hawk's Egg",
+        "effects": {
+            "primary": "Resist Magic",
+            "secondary": "Damage Magicka Regen",
+            "tertiary": "Waterbreathing",
+            "quarternary": "Lingering Damage Stamina"
+        },
+        "weight": "0.5",
+        "value": "2",
+        "obtained": "Hawk's Nest",
+        "minimal": "hearthfire"
+    },
+    {
+        "name": "Gleamblossom",
+        "effects": {
+            "primary": "Resist Magic",
+            "secondary": "Fear",
+            "tertiary": "Regenerate Health",
+            "quarternary": "Paralysis"
+        },
+        "weight": "0.1",
+        "value": "5",
+        "obtained": "Harvested in Darkfall Cave, Forgotten Vale",
+        "minimal": "dawngard"
+    },
+    {
+        "name": "Trama Root",
+        "effects": {
+            "primary": "Weakness to Shock",
+            "secondary": "Fortify Carry Weight",
+            "tertiary": "Damage Magicka",
+            "quarternary": "Slow"
+        },
+        "weight": "0.2",
+        "value": "1",
+        "obtained": "Harvested from ashen areas of Solstheim",
+        "minimal": "dragonborn"
+    },
+    {
+        "name": "Ash Creep Cluster",
+        "effects": {
+            "primary": "Damage Stamina",
+            "secondary": "Invisibility",
+            "tertiary": "Resist Fire",
+            "quarternary": "Fortify Destruction"
+        },
+        "weight": "0.3",
+        "value": "20",
+        "obtained": "Harvested from ash covered areas of Solstheim",
+        "minimal": "dragonborn"
+    },
+    {
+        "name": "Ashen Grass Pod",
+        "effects": {
+            "primary": "Resist Fire",
+            "secondary": "Weakness to Shock",
+            "tertiary": "Fortify Lockpicking",
+            "quarternary": "Fortify Sneak"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "Harvested from ash covered areas of Solstheim",
+        "minimal": "dragonborn"
+    },
+    {
+        "name": "Scathecraw",
+        "effects": {
+            "primary": "Ravage Health",
+            "secondary": "Ravage Stamina",
+            "tertiary": "Ravage Magicka",
+            "quarternary": "Lingering Damage Health"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "Harvested all over Solstheim",
+        "minimal": "dragonborn"
+    },
+    {
+        "name": "Frost Mirriam",
+        "effects": {
+            "primary": "Resist Frost",
+            "secondary": "Fortify Sneak",
+            "tertiary": "Ravage Magicka",
+            "quarternary": "Damage Stamina Regen"
+        },
+        "weight": "0.1",
+        "value": "1",
+        "obtained": "Hanging in homes, businesses and giant camps",
+        "minimal": null
+    },
+    {
+        "name": "Garlic",
+        "effects": {
+            "primary": "Resist Poison",
+            "secondary": "Fortify Stamina",
+            "tertiary": "Regenerate Magicka",
+            "quarternary": "Regenerate Health"
+        },
+        "weight": "0.3",
+        "value": "1",
+        "obtained": "Hanging in homes, businesses and cooking areas",
+        "minimal": null
+    },
+    {
+        "name": "Emperor Parasol Moss",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Fortify Magicka",
+            "tertiary": "Regenerate Health",
+            "quarternary": "Fortify Two-Handed"
+        },
+        "weight": "0.3",
+        "value": "1",
+        "obtained": "Hanging from Emperor Parasol around Tel Mithryn.",
+        "minimal": "dragonborn"
+    },
+    {
+        "name": "Hagraven Claw",
+        "effects": {
+            "primary": "Resist Magic",
+            "secondary": "Lingering Damage Magicka",
+            "tertiary": "Fortify Enchanting",
+            "quarternary": "Fortify Barter"
+        },
+        "weight": "0.3",
+        "value": "20",
+        "obtained": "Hagraven",
+        "minimal": null
+    },
+    {
+        "name": "Hagraven Feathers",
+        "effects": {
+            "primary": "Damage Magicka",
+            "secondary": "Fortify Conjuration",
+            "tertiary": "Frenzy",
+            "quarternary": "Weakness to Shock"
+        },
+        "weight": "0.1",
+        "value": "20",
+        "obtained": "Hagraven",
+        "minimal": null
+    },
+    {
+        "name": "Wheat",
+        "effects": {
+            "primary": "Restore Health",
+            "secondary": "Fortify Health",
+            "tertiary": "Damage Stamina Regen",
+            "quarternary": "Lingering Damage Magicka"
+        },
+        "weight": "0.1",
+        "value": "5",
+        "obtained": "Grows on farms, containers",
+        "minimal": null
+    },
+    {
+        "name": "Nightshade",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Damage Magicka Regen",
+            "tertiary": "Lingering Damage Stamina",
+            "quarternary": "Fortify Destruction"
+        },
+        "weight": "0.1",
+        "value": "8",
+        "obtained": "Graveyards, undead areas",
+        "minimal": null
+    },
+    {
+        "name": "Giant's Toe",
+        "effects": {
+            "primary": "Damage Stamina",
+            "secondary": "Fortify Health",
+            "tertiary": "Fortify Carry Weight",
+            "quarternary": "Damage Stamina Regen"
+        },
+        "weight": "1",
+        "value": "20",
+        "obtained": "Giants",
+        "minimal": null
+    },
+    {
+        "name": "Powdered Mammoth Tusk",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify Sneak",
+            "tertiary": "Weakness to Fire",
+            "quarternary": "Fear"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Giant Camps, Alchemy Laboratory of a Homestead\u2020",
+        "minimal": null
+    },
+    {
+        "name": "Ectoplasm",
+        "effects": {
+            "primary": "Restore Magicka",
+            "secondary": "Fortify Destruction",
+            "tertiary": "Fortify Magicka",
+            "quarternary": "Damage Health"
+        },
+        "weight": "0.1",
+        "value": "25",
+        "obtained": "Ghostlike creatures",
+        "minimal": null
+    },
+    {
+        "name": "Frost Salts",
+        "effects": {
+            "primary": "Weakness to Fire",
+            "secondary": "Resist Frost",
+            "tertiary": "Restore Magicka",
+            "quarternary": "Fortify Conjuration"
+        },
+        "weight": "0.3",
+        "value": "100",
+        "obtained": "Frost Atronach",
+        "minimal": null
+    },
+    {
+        "name": "Charred Skeever Hide",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Cure Disease",
+            "tertiary": "Resist Poison",
+            "quarternary": "Restore Health"
+        },
+        "weight": "0.5",
+        "value": "1",
+        "obtained": "Found at campfires",
+        "minimal": null
+    },
+    {
+        "name": "Briar Heart",
+        "effects": {
+            "primary": "Restore Magicka",
+            "secondary": "Fortify Block",
+            "tertiary": "Paralysis",
+            "quarternary": "Fortify Magicka"
+        },
+        "weight": "0.5",
+        "value": "20",
+        "obtained": "Forsworn Leaders",
+        "minimal": null
+    },
+    {
+        "name": "Fire Salts",
+        "effects": {
+            "primary": "Weakness to Frost",
+            "secondary": "Resist Fire",
+            "tertiary": "Restore Magicka",
+            "quarternary": "Regenerate Magicka"
+        },
+        "weight": "0.3",
+        "value": "50",
+        "obtained": "Flame Atronach",
+        "minimal": null
+    },
+    {
+        "name": "Felsaad Tern Feathers",
+        "effects": {
+            "primary": "Restore Health",
+            "secondary": "Fortify Light Armor",
+            "tertiary": "Cure Disease",
+            "quarternary": "Resist Magic"
+        },
+        "weight": "0.1",
+        "value": "15",
+        "obtained": "Felsaad Tern",
+        "minimal": "dragonborn"
+    },
+    {
+        "name": "Human Flesh",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Paralysis",
+            "tertiary": "Restore Magicka",
+            "quarternary": "Fortify Sneak"
+        },
+        "weight": "0.3",
+        "value": "1",
+        "obtained": "Falmer Vampire dens",
+        "minimal": null
+    },
+    {
+        "name": "Human Heart",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Damage Magicka",
+            "tertiary": "Damage Magicka Regen",
+            "quarternary": "Frenzy"
+        },
+        "weight": "1",
+        "value": "0",
+        "obtained": "Falmer Vampire dens",
+        "minimal": null
+    },
+    {
+        "name": "Chaurus Eggs",
+        "effects": {
+            "primary": "Weakness to Poison",
+            "secondary": "Fortify Stamina",
+            "tertiary": "Damage Magicka",
+            "quarternary": "Invisibility"
+        },
+        "weight": "0.2",
+        "value": "10",
+        "obtained": "Falmer caves",
+        "minimal": null
+    },
+    {
+        "name": "Falmer Ear",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Frenzy",
+            "tertiary": "Resist Poison",
+            "quarternary": "Fortify Lockpicking"
+        },
+        "weight": "0.2",
+        "value": "10",
+        "obtained": "Falmer",
+        "minimal": null
+    },
+    {
+        "name": "Small Antlers",
+        "effects": {
+            "primary": "Weakness to Poison",
+            "secondary": "Fortify Restoration",
+            "tertiary": "Lingering Damage Stamina",
+            "quarternary": "Damage Health"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Elk",
+        "minimal": null
+    },
+    {
+        "name": "Dwarven Oil",
+        "effects": {
+            "primary": "Weakness to Magic",
+            "secondary": "Fortify Illusion",
+            "tertiary": "Regenerate Magicka",
+            "quarternary": "Restore Magicka"
+        },
+        "weight": "0.3",
+        "value": "15",
+        "obtained": "Dwemer Ruins",
+        "minimal": null
+    },
+    {
+        "name": "Bone Meal",
+        "effects": {
+            "primary": "Damage Stamina",
+            "secondary": "Resist Fire",
+            "tertiary": "Fortify Conjuration",
+            "quarternary": "Ravage Stamina"
+        },
+        "weight": "0.5",
+        "value": "5",
+        "obtained": "Draugr and skeletons",
+        "minimal": null
+    },
+    {
+        "name": "Large Antlers",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify Stamina",
+            "tertiary": "Slow",
+            "quarternary": "Damage Stamina Regen"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Deer, Elk",
+        "minimal": null
+    },
+    {
+        "name": "Mora Tapinella",
+        "effects": {
+            "primary": "Restore Magicka",
+            "secondary": "Lingering Damage Health",
+            "tertiary": "Regenerate Stamina",
+            "quarternary": "Fortify Illusion"
+        },
+        "weight": "0.3",
+        "value": "4",
+        "obtained": "Dead Trees",
+        "minimal": null
+    },
+    {
+        "name": "Scaly Pholiota",
+        "effects": {
+            "primary": "Weakness to Magic",
+            "secondary": "Fortify Illusion",
+            "tertiary": "Regenerate Stamina",
+            "quarternary": "Fortify Carry Weight"
+        },
+        "weight": "0.3",
+        "value": "4",
+        "obtained": "Dead birch trees",
+        "minimal": null
+    },
+    {
+        "name": "Yellow Mountain Flower",
+        "effects": {
+            "primary": "Resist Poison",
+            "secondary": "Fortify Restoration",
+            "tertiary": "Fortify Health",
+            "quarternary": "Damage Stamina Regen"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Darkfall Cave, Ancestor Glade",
+        "minimal": "dawngard"
+    },
+    {
+        "name": "Poison Bloom",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Slow",
+            "tertiary": "Fortify Carry Weight",
+            "quarternary": "Fear"
+        },
+        "weight": "0.3",
+        "value": "5",
+        "obtained": "Darkfall Cave",
+        "minimal": "dawngard"
+    },
+    {
+        "name": "Jarrin Root",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Damage Magicka",
+            "tertiary": "Damage Stamina",
+            "quarternary": "Damage Magicka Regen"
+        },
+        "weight": "0.5",
+        "value": "10",
+        "obtained": "Dark Brotherhood quest",
+        "minimal": null
+    },
+    {
+        "name": "Daedra Heart",
+        "effects": {
+            "primary": "Restore Health",
+            "secondary": "Damage Stamina Regen",
+            "tertiary": "Damage Magicka",
+            "quarternary": "Fear"
+        },
+        "weight": "0.5",
+        "value": "250",
+        "obtained": "Daedra",
+        "minimal": null
+    },
+    {
+        "name": "Chicken's Egg",
+        "effects": {
+            "primary": "Resist Magic",
+            "secondary": "Damage Magicka Regen",
+            "tertiary": "Waterbreathing",
+            "quarternary": "Lingering Damage Stamina"
+        },
+        "weight": "0.5",
+        "value": "2",
+        "obtained": "Chicken's Nest",
+        "minimal": null
+    },
+    {
+        "name": "Chaurus Hunter Antennae",
+        "effects": {
+            "primary": "Damage Stamina",
+            "secondary": "Fortify Conjuration",
+            "tertiary": "Damage Magicka Regen",
+            "quarternary": "Fortify Enchanting"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Chaurus Hunter, Chaurus Hunter Fledgling",
+        "minimal": "dawngard"
+    },
+    {
+        "name": "Glowing Mushroom",
+        "effects": {
+            "primary": "Resist Shock",
+            "secondary": "Fortify Destruction",
+            "tertiary": "Fortify Smithing",
+            "quarternary": "Fortify Health"
+        },
+        "weight": "0.2",
+        "value": "5",
+        "obtained": "Caves, Dwemer Ruins",
+        "minimal": null
+    },
+    {
+        "name": "Blisterwort",
+        "effects": {
+            "primary": "Damage Stamina",
+            "secondary": "Frenzy",
+            "tertiary": "Restore Health",
+            "quarternary": "Fortify Smithing"
+        },
+        "weight": "0.2",
+        "value": "12",
+        "obtained": "Caves and dark areas",
+        "minimal": null
+    },
+    {
+        "name": "Namira's Rot",
+        "effects": {
+            "primary": "Damage Magicka",
+            "secondary": "Fortify Lockpicking",
+            "tertiary": "Fear",
+            "quarternary": "Regenerate Health"
+        },
+        "weight": "0.3",
+        "value": "0",
+        "obtained": "Caves",
+        "minimal": null
+    },
+    {
+        "name": "Burnt Spriggan Wood",
+        "effects": {
+            "primary": "Weakness to Fire",
+            "secondary": "Fortify Alteration",
+            "tertiary": "Damage Magicka Regen",
+            "quarternary": "Slow"
+        },
+        "weight": "0.5",
+        "value": "20",
+        "obtained": "Burnt Spriggans",
+        "minimal": "dragonborn"
+    },
+    {
+        "name": "Blue Butterfly Wing",
+        "effects": {
+            "primary": "Damage Stamina",
+            "secondary": "Fortify Conjuration",
+            "tertiary": "Damage Magicka Regen",
+            "quarternary": "Fortify Enchanting"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Blue Butterfly",
+        "minimal": null
+    },
+    {
+        "name": "Crimson Nirnroot",
+        "effects": {
+            "primary": "Damage Health",
+            "secondary": "Damage Stamina",
+            "tertiary": "Invisibility",
+            "quarternary": "Resist Magic"
+        },
+        "weight": "0.2",
+        "value": "10",
+        "obtained": "Blackreach",
+        "minimal": null
+    },
+    {
+        "name": "Honeycomb",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify Block",
+            "tertiary": "Fortify Light Armor",
+            "quarternary": "Ravage Stamina"
+        },
+        "weight": "1",
+        "value": "5",
+        "obtained": "Beehive",
+        "minimal": null
+    },
+    {
+        "name": "Bee",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Ravage Stamina",
+            "tertiary": "Regenerate Stamina",
+            "quarternary": "Weakness to Shock"
+        },
+        "weight": "0.1",
+        "value": "3",
+        "obtained": "Beehive",
+        "minimal": null
+    },
+    {
+        "name": "Beehive Husk",
+        "effects": {
+            "primary": "Resist Poison",
+            "secondary": "Fortify Light Armor",
+            "tertiary": "Fortify Sneak",
+            "quarternary": "Fortify Destruction"
+        },
+        "weight": "1",
+        "value": "5",
+        "obtained": "Beehive",
+        "minimal": null
+    },
+    {
+        "name": "Bear Claws",
+        "effects": {
+            "primary": "Restore Stamina",
+            "secondary": "Fortify Health",
+            "tertiary": "Fortify One-Handed",
+            "quarternary": "Damage Magicka Regen"
+        },
+        "weight": "0.1",
+        "value": "2",
+        "obtained": "Bears, Cave Bears, Snow Bears",
+        "minimal": null
+    },
+    {
+        "name": "Spawn Ash",
+        "effects": {
+            "primary": "Ravage Stamina",
+            "secondary": "Resist Fire",
+            "tertiary": "Fortify Enchanting",
+            "quarternary": "Ravage Magicka"
+        },
+        "weight": "0.1",
+        "value": "20",
+        "obtained": "Ash Spawn",
+        "minimal": "dragonborn"
+    },
+    {
+        "name": "Ash Hopper Jelly",
+        "effects": {
+            "primary": "Restore Health",
+            "secondary": "Fortify Light Armor",
+            "tertiary": "Resist Shock",
+            "quarternary": "Weakness to Frost"
+        },
+        "weight": "0.3",
+        "value": "20",
+        "obtained": "Ash Hopper Corpses",
+        "minimal": "dragonborn"
+    }
+]
