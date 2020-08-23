@@ -45,5 +45,5 @@ for line in lines:
 for _ in range(0, len(total)):
     total.append(dict_wrapper(total.pop(0)))
 
-with open("result.json", "w") as json_file:
+with open("../result.json", "w") as json_file:
     json.dump(total, json_file, indent=4)
